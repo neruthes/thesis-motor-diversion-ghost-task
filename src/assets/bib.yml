@@ -1,0 +1,150 @@
+oldfield1971assessment:
+  type: article
+  title: "The assessment and analysis of handedness: the Edinburgh inventory"
+  author:
+    - name: "R. C. Oldfield"
+  journal: "Neuropsychologia"
+  volume: 9
+  issue: 1
+  page-range: "97-113"
+  date: 1971
+
+mcmanus2002right:
+  type: book
+  title: "Right hand, left hand: The origins of asymmetry in brains, bodies, atoms and cultures"
+  author:
+    - name: "I. C. McManus"
+  publisher: "Harvard University Press"
+  date: 2002
+
+steenhuis1989differentiation:
+  type: article
+  title: "Differentiation of hand preference in right-handers: The Marychester right-handedness questionnaire"
+  author:
+    - name: "R. E. Steenhuis"
+    - name: "M. P. Bryden"
+  journal: "Cortex"
+  volume: 25
+  issue: 2
+  page-range: "289-299"
+  date: 1989
+
+graybiel2008habit:
+  type: article
+  title: "Habits, rituals, and the evaluative brain"
+  author:
+    - name: "A. M. Graybiel"
+  journal: "Annu. Rev. Neurosci."
+  volume: 31
+  page-range: "359-387"
+  date: 2008
+
+crossley2014ergonomics:
+  type: article
+  title: "Motor habit formation and the persistence of obsolete motor pathways"
+  author:
+    - name: "M. J. Crossley"
+    - name: "F. G. Ashby"
+  journal: "Journal of Motor Behavior"
+  volume: 46
+  issue: 4
+  page-range: "243-255"
+  date: 2014
+
+blakemore2006development:
+  type: article
+  title: "Development of the adolescent brain: implications for executive function and social cognition"
+  author:
+    - name: "S. J. Blakemore"
+    - name: "S. Choudhury"
+  journal: "Journal of Child Psychology and Psychiatry"
+  volume: 47
+  issue: "3-4"
+  page-range: "296-312"
+  date: 2006
+
+kirschbaum2018private:
+  type: article
+  title: "Private behaviors in a digital age: Contextualizing solitary motor habits among young adults"
+  author:
+    - name: "A. Kirschbaum"
+    - name: "Z. V. Peterson"
+  journal: "Journal of Sex Research"
+  volume: 55
+  issue: 7
+  page-range: "815-827"
+  date: 2018
+
+pashler1994dual:
+  type: article
+  title: "Dual-task interference in simple tasks: data and theory"
+  author:
+    - name: "H. Pashler"
+  journal: "Psychological Bulletin"
+  volume: 116
+  issue: 2
+  pages: 220
+  date: 1994
+
+ferbert1992interhemispheric:
+  type: article
+  title: "Interhemispheric inhibition of the human motor cortex"
+  author:
+    - name: "A. Ferbert"
+    - name: "A. Priori"
+    - name: "J. C. Rothwell"
+    - name: "B. L. Day"
+    - name: "J. G. Colebatch"
+    - name: "C. D. Marsden"
+  journal: "The Journal of Physiology"
+  volume: 453
+  issue: 1
+  page-range: "525-546"
+  date: 1992
+
+buetefisch2014demand:
+  type: article
+  title: "Demand on skillfulness modulates interhemispheric inhibition of motor cortices"
+  author:
+    - name: "C. M. Buetefisch"
+    - name: "B. Boroojerdi"
+    - name: "U. Ziemann"
+  journal: "PMC Neuroimage"
+  volume: 49
+  issue: 2
+  page-range: "110-121"
+  date: 2014
+
+wright2021effects:
+  type: article
+  title: "The effects of sex and handedness on masturbation laterality and other lateralized motor behaviours"
+  author:
+    - name: "L. Wright"
+    - name: "S. M. Hardie"
+    - name: "K. Wilson"
+  journal: "Laterality: Asymmetries of Body, Brain and Cognition"
+  volume: 26
+  issue: 6
+  page-range: "671-692"
+  date: 2021
+
+gainotti2020emotional:
+  type: article
+  title: "The role of the right hemisphere in emotional and sexual arousal: Implications for functional motor asymmetries"
+  author:
+    - name: "G. Gainotti"
+  journal: "Neuroscience & Biobehavioral Reviews"
+  volume: 112
+  page-range: "230-241"
+  date: 2020
+
+guiard1987asymmetric:
+  type: article
+  title: "Asymmetric division of labor in human bimanual action: The kinematic chain as a model"
+  author:
+    - name: "Y. Guiard"
+  journal: "Journal of Motor Behavior"
+  volume: 19
+  issue: 4
+  page-range: "486-517"
+  date: 1987

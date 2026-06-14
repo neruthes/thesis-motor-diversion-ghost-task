@@ -1,0 +1,67 @@
+title = "Competition-Induced Handedness Separation Study"
+
+[[question]]
+id = "age"
+type = "integer"
+
+[[question]]
+id = "country"
+type = "string"
+
+[[question]]
+id = "writing_hand"
+type = "single_choice"
+choices = ["left","right","both"]
+
+[[question]]
+id = "throwing_hand"
+type = "single_choice"
+choices = ["left","right","both"]
+
+[[question]]
+id = "mouse_hand"
+type = "single_choice"
+choices = ["left","right","both"]
+
+[[question]]
+id = "masturbation_hand"
+type = "ordinal"
+choices = [
+  "always_left",
+  "mostly_left",
+  "both_equally",
+  "mostly_right",
+  "always_right"
+]
+
+[[question]]
+id = "early_computer_involvement"
+type = "likert_5"
+
+[[question]]
+id = "simultaneous_computer_activity"
+type = "likert_5"
+
+[[question]]
+id = "right_hand_mouse_operation"
+type = "likert_5"
+
+[[question]]
+id = "mouse_control_importance"
+type = "likert_7"
+
+[[question]]
+id = "preference_stability"
+type = "likert_7"
+
+[[question]]
+id = "automaticity"
+type = "likert_7"
+
+[[question]]
+id = "persists_without_computer"
+type = "likert_7"
+
+[[question]]
+id = "age_habit_established"
+type = "integer"
